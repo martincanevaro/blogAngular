@@ -1,0 +1,10 @@
+.container__articles{
+margin-top: 20px;
+display: flex;
+justify-content: center;
+}
+header {
+  border: 1px,saddlebrown;
+  display: flex;
+  justify-content: center;
+}
